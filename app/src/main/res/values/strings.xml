@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Otter Library System</string>
+    <string name="createAccount">Create Account</string>
+    <string name="placeHold">Place Hold</string>
+    <string name="cancelHold">Cancel Hold</string>
+    <string name="manageSystem">Manage System</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="submit">Submit</string>
+    <string name="error">Entered Incorrect username/password\n Back to Main Menu\n</string>
+    <string name="okay">Okay</string>
+    <string name="month">Month:</string>
+    <string name="am">A.M.</string>
+    <string name="pm">P.M.</string>
+    <string name="pickUpBook">Pick Up Date:</string>
+    <string name="returnBook">Return Date:</string>
+    <string name="Time">Time:</string>
+    <string name="hotJava">Hot Java</string>
+    <string name="funJava">Fun Java</string>
+    <string name="algorithmJava">Algorithms for Java</string>
+    <string name="error7">Reservation is more than 7 days\n Cannot reserve book due to rental restriction.</string>
+
+    <string-array name="time">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+
+    </string-array>
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <string name="day">Day:</string>
+    <string-array name="days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+</resources>
